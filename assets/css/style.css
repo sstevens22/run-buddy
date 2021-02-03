@@ -63,7 +63,7 @@ section {
 }
 /* Hero Style Start */
 .hero {
-    background-image: url(../hero-bg.jpg);
+    background-image: url(../Images/hero-bg.jpg);
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -105,5 +105,4 @@ section {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
-
 }
